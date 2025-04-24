@@ -1,0 +1,26 @@
+{
+  "name": "vy-currency-cons",
+  "version": "1.0.0",
+  "description": "An Currency Converter Package ",
+  "type": "module",
+  "keywords": [
+    "npm"
+  ],
+  "homepage": "https://github.com/Vinay8git/myNPM#readme",
+  "bugs": {
+    "url": "https://github.com/Vinay8git/myNPM/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinay8git/myNPM.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Vinay Yadav",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
