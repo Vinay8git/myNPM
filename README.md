@@ -1,7 +1,8 @@
 # 📦 vins-currency-cons
 
-[![npm version](https://img.shields.io/npm/v/vins-currency-cons.svg)](https://www.npmjs.com/package/vy-currency-cons)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![npm version](https://img.shields.io/npm/v/vy-currency-cons.svg)](https://www.npmjs.com/package/vy-currency-cons)  
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 > A lightweight Node.js package to fetch the latest currency exchange conversion values easily.
 
