@@ -1,4 +1,4 @@
-# 📦 vins-currency-cons
+# 📦 vy-currency-cons
 
 [![npm version](https://img.shields.io/npm/v/vy-currency-cons.svg)](https://www.npmjs.com/package/vy-currency-cons)  
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -19,16 +19,16 @@
 ## 📥 Installation
 
 ```bash
-npm install vins-currency-cons
+npm install vy-currency-cons
 ```
 ```bash
 # or
-yarn add vins-currency-cons
+yarn add vy-currency-cons
 ```
 
 ## 🚀 Usage
 ```
-const { getLatestExchange } = require('vins-currency-cons');
+const { getLatestExchange } = require('vy-currency-cons');
 
 (async () => {
   try {
@@ -59,7 +59,7 @@ A Promise that resolves to a Number representing the converted amount.
 
 ## 🛠 Example
 ```bash
-const { getLatestExchange } = require('vins-currency-cons');
+const { getLatestExchange } = require('vy-currency-cons');
 
 getLatestExchange('EUR', 'GBP', 50)
   .then(amount => {
